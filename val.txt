@@ -1,0 +1,7 @@
+/opt/zhongls/object_detect/keras-YOLOv3-mobilenet-master/smoke-PascalVOC-export/JPEGImages/40.jpg 124,20,210,101,0
+/opt/zhongls/object_detect/keras-YOLOv3-mobilenet-master/smoke-PascalVOC-export/JPEGImages/60.jpg 122,15,231,121,0
+/opt/zhongls/object_detect/keras-YOLOv3-mobilenet-master/smoke-PascalVOC-export/JPEGImages/59.jpg 174,33,214,86,0
+/opt/zhongls/object_detect/keras-YOLOv3-mobilenet-master/smoke-PascalVOC-export/JPEGImages/58.jpg 76,51,168,102,0
+/opt/zhongls/object_detect/keras-YOLOv3-mobilenet-master/smoke-PascalVOC-export/JPEGImages/57.jpg 92,84,163,113,0
+/opt/zhongls/object_detect/keras-YOLOv3-mobilenet-master/smoke-PascalVOC-export/JPEGImages/56.jpg 51,32,237,179,0
+/opt/zhongls/object_detect/keras-YOLOv3-mobilenet-master/smoke-PascalVOC-export/JPEGImages/55.jpg 54,41,168,150,0

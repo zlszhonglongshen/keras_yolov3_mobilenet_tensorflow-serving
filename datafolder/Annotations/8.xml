@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<floder>JPEGImages</floder>
+		<path>None</path>
+		<source>
+			<database>Unknow</database>
+		</source>
+		<segmented>0</segmented>
+		<filename>8.jpg</filename>
+		<size>
+			<width>1520</width>
+			<height>1152</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>zheng</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>91</xmin>
+				<ymin>237</ymin>
+				<xmax>1373</xmax>
+				<ymax>1055</ymax>
+			</bndbox>
+		</object>
+	</annotation>
